@@ -1,5 +1,11 @@
 # 💫 About Me:
-¡Hola! Soy Andrés Felipe Sierra, estudiante de ingeniería en sistemas y buscando mi primer experiencia laboral en el mundo del desarrollo web. Tengo conocimiento en varias tecnologías, incluyendo JavaScript, Node.js, HTML, CSS, C#, Git y SQL Server. Además, he trabajado en proyectos de LuxuryBarber, una aplicación veterinaria y una aplicación para restaurantes.<br><br>Soy una persona disciplinada y responsable con mis labores, siempre buscando aprender y mejorar mis habilidades. Disfruto trabajar en equipo y colaborar con otros desarrolladores para lograr objetivos comunes.<br><br>Actualmente, estoy interesado en trabajar como desarrollador web en la construcción de APIs en la parte del backend. Si tienes algún proyecto en el que pueda colaborar, no dudes en contactarme. ¡Estoy emocionado de seguir creciendo y aprendiendo en el campo del desarrollo de software!
+¡Hola! Soy Andrés Felipe Sierra, un desarrollador web con experiencia en la creación de aplicaciones y sistemas web de alta calidad. Mi trayectoria incluye trabajos en proyectos como LuxuryBarber, una aplicación veterinaria y una aplicación para restaurantes, donde he contribuido en el desarrollo de soluciones innovadoras.
+
+Mi conjunto de habilidades abarca tecnologías como JavaScript, Node.js, HTML, CSS, C#, Git y SQL Server. Me especializo en la construcción de APIs en la parte del backend, asegurando un rendimiento óptimo y una experiencia de usuario excepcional.
+
+Soy conocido por mi disciplina, responsabilidad y habilidad para colaborar en equipo. Disfruto de los desafíos técnicos y me comprometo a mantenerme actualizado en las últimas tendencias y tecnologías en desarrollo web.
+
+Si estás buscando a alguien apasionado por el desarrollo de software y con experiencia en la construcción de sistemas web robustos, estaré encantado de formar parte de tu equipo o proyecto. ¡Espero con ansias seguir creciendo y aportando al mundo del desarrollo de software!
 
 
 # 💻 Tech Stack:
